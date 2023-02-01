@@ -1,6 +1,7 @@
 * {
     font-family: "Times New Roman", Times, serif;
     background-color: bisque;
+    box-sizing: border-box;
 }
 
 .center { 
@@ -11,3 +12,19 @@ img {
     max-width: 100%;
     height: auto;
   }
+
+.recipes-container {
+    background-color: brown;
+    padding: 2px;
+    border: 12px;
+    border-width: 12px;
+    border-color: black;
+    margin: 8px;
+    max-width: 600px;
+}
+
+.recipe-link {
+    background-color: rgb(253, 118, 0);
+    border-color: black;
+    ;
+}
